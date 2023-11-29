@@ -1,5 +1,7 @@
 # kafka-movie
 
+https://quarkus.io/blog/getting-started-kafka/
+
 We need something to exchange. We will send and receive Movie objects. 
 Create Movie class with the following content:
 
