@@ -13,7 +13,8 @@ public class Movie {
 ```
 
 
-In Kafka, we produce and consume records. A record contains a key and a value. Let’s say we will use the movie’s publication year as key and the title as value.
+In Kafka, we produce and consume records. A record contains a key and a value. 
+Let’s say we will use the movie’s publication year as key and the title as value.
 
 We also need to decide on which topic we are going to send these records. Let’s keep things simple and name our topic movies.
 
